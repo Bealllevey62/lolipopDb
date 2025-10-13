@@ -1,12 +1,3 @@
-[
-  {
-    "id": 5126860596,
-    "token": "8105975018:AAEOC-_o-Cw0NpfKQhtrn3d0JHkstdL9LQo",
-    "verifiedAt": "2025-10-13T14:25:43.000Z"
-  },
-  {
-    "id": "5126860596",
-    "token": "7737714954:AAGGdGtDfF9ZNj0-bK0IsidhcoYIKASOB5U",
-    "verifiedAt": "2025-10-13T19:02:18.622Z"
-  }
-]
+{
+  "verifiedUsers": []
+}
